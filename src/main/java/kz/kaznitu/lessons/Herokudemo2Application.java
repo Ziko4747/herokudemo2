@@ -20,7 +20,7 @@ public class Herokudemo2Application implements CommandLineRunner {
 	@Override
 	public void run(String... strings) throws Exception{
 
-		Server server1 = new Server();
+		/*Server server1 = new Server();
 		server1.setName("Бокс-мастер");
 		server1.setPrice(1600);
 
@@ -29,6 +29,6 @@ public class Herokudemo2Application implements CommandLineRunner {
 		server2.setPrice(1250);
 
 		serverRepository.save(server1);
-		serverRepository.save(server2);
+		serverRepository.save(server2);*/
 	}
 }
